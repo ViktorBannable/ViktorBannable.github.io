@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <meta http-equiv="refresh" content="1;url=https://freecash.com/r/slgnup">
+  <meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+  <p>Redirecting you. Pokud se nepřesměruješ automaticky, klikni <a href="https://freecash.com/r/slgnup">zde</a>.</p>
+  <noscript>
+    <p>JavaScript vypnutý. Klikni <a href="https://freecash.com/r/slgnup">zde</a>.</p>
+  </noscript>
+  <script>location.replace("https://freecash.com/r/slgnup")</script>
+</body>
+</html>
