@@ -9,5 +9,5 @@ Here’s a list of all my active redirect links, each ready to track clicks via 
 | Reddit EFM Banner | [https://ViktorBannable.github.io/reddit-efm-banner.html](https://ViktorBannable.github.io/reddit-efm-banner.html) |
 | Reddit GPT Tutorial | [https://ViktorBannable.github.io/reddit-gpt-tutorial.html](https://ViktorBannable.github.io/reddit-gpt-tutorial.html) |
 | AF1 Reddit Post | [https://ViktorBannable.github.io/af1-reddit-post.html](https://ViktorBannable.github.io/af1-reddit-post.html) |
-
+| Discord Carl-bot | [https://ViktorBannable.github.io/discord-welcome.html](https://ViktorBannable.github.io/discord-welcome.html) |
 > All links are permanent as long as the GitHub repository exists and the HTML files are not deleted.
