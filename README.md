@@ -10,5 +10,5 @@ Here’s a list of all my active redirect links, each ready to track clicks via 
 | Reddit GPT Tutorial | [https://ViktorBannable.github.io/reddit-gpt-tutorial.html](https://ViktorBannable.github.io/reddit-gpt-tutorial.html) |
 | AF1 Reddit Post | [https://ViktorBannable.github.io/af1-reddit-post.html](https://ViktorBannable.github.io/af1-reddit-post.html) |
 | Discord Bot Welcome | [https://ViktorBannable.github.io/discord-welcome.html](https://ViktorBannable.github.io/discord-welcome.html) |
-| Quora Posts | [ViktorBannable.github.io/quora_post.html](ViktorBannable.github.io/quora_post.html) |
+| Quora Posts | [https://ViktorBannable.github.io/quora_post.html](https://ViktorBannable.github.io/quora_post.html) |
 > All links are permanent as long as the GitHub repository exists and the HTML files are not deleted.
