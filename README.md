@@ -16,6 +16,8 @@ Here’s a list of all my active redirect links, each ready to track clicks via 
 
 # Affiliate Partner Links
 
+| Name | Redirect URL |
+|------|--------------|
 | AF1 Reddit Post | [https://ViktorBannable.github.io/af1-reddit-post.html](https://ViktorBannable.github.io/af1-reddit-post.html) |
 
 > All links are permanent as long as the GitHub repository exists and the HTML files are not deleted.
