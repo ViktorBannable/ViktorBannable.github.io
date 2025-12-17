@@ -9,6 +9,7 @@ Here’s a list of all my active redirect links, each ready to track clicks via 
 | Reddit EFM Banner | [https://ViktorBannable.github.io/reddit-efm-banner.html](https://ViktorBannable.github.io/reddit-efm-banner.html) |
 | Reddit GPT Tutorial | [https://ViktorBannable.github.io/reddit-gpt-tutorial.html](https://ViktorBannable.github.io/reddit-gpt-tutorial.html) |
 | AF1 Reddit Post | [https://ViktorBannable.github.io/af1-reddit-post.html](https://ViktorBannable.github.io/af1-reddit-post.html) |
+| Medium Post | [https://ViktorBannable.github.io/medium_post.html](https://ViktorBannable.github.io/medium_post.html)
 | Discord Bot Welcome | [https://ViktorBannable.github.io/discord-welcome.html](https://ViktorBannable.github.io/discord-welcome.html) |
 | Quora Posts | [https://ViktorBannable.github.io/quora_post.html](https://ViktorBannable.github.io/quora_post.html) |
 | Linktr.ee/EFMNetwork | [https://ViktorBannable.github.io/linktree.html](https://ViktorBannable.github.io/linktree.html)
