@@ -28,6 +28,7 @@ All links are trackable via Google Analytics and point to dedicated HTML redirec
 | AF1 Reddit Post | https://ViktorBannable.github.io/af1-reddit-post.html |
 | AF1 X.com Post | https://ViktorBannable.github.io/af1_twitter_post.html |
 | AF1 Discord Post | https://ViktorBannable.github.io/af1_discord_post.html |
+| AF1 Instagram DM | https://ViktorBannable.github.io/af1_instagram_dm.html |
 
 
 ---
