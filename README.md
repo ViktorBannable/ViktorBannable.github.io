@@ -34,6 +34,7 @@ All links point to dedicated HTML redirect pages hosted via GitHub Pages and are
 | Name | Redirect URL |
 |------|--------------|
 | AF1 Reddit Post | https://ViktorBannable.github.io/af1-reddit-post.html |
+| AF1 Medium | https://ViktorBannable.github.io/af1_medium_post.html |
 | AF1 X.com Post | https://ViktorBannable.github.io/af1_twitter_post.html |
 | AF1 Discord Post | https://ViktorBannable.github.io/af1_discord_post.html |
 | AF1 Instagram DM | https://ViktorBannable.github.io/af1_instagram_dm.html |
